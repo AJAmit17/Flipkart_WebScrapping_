@@ -4,4 +4,4 @@ In this project the scrapping data is stored in MongoDB database & The source co
 
 Below is a link to check out the working of this project
 
-http://webscrappingaj-env.eba-m27grcuq.ap-south-1.elasticbeanstalk.com/
+http://flipkartwebscrap-env.eba-beu5xnym.ap-south-1.elasticbeanstalk.com/
